@@ -29,6 +29,10 @@ change the location and name in step 4 in the zoom_downloader.py.
 
 RUN and wait a few sec :)
 
+you will get an error at the end because there is a problem getting the last bit of the video,
+dont worry the video is fine. you can watch it
+I will try to patch and fix it in the future. 
+
 important note:
 **the cookie change every couple of days so make sure to update it if necessary.
 **all headers except the 'cookie' and 'request url' will stay the same. no need to change it again
