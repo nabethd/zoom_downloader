@@ -21,7 +21,8 @@ step 5:
 under Request Headers you can find all of the other necessary headers.
 copy the 'Cookie' to step 2 in the zoom_downloader.py,
 copy 'User-Agent' to step 3 in the zoom_downloader.py,
-and make sure that all other headers are the same(it may vary from computer to computer)
+and make sure that all other headers are the same (it may vary from computer to computer).
+**(you don't need to add the missing headers, update only the one in zoom_downloader.py)
 
 step 6:
 change the location and name in step 4 in the zoom_downloader.py.
